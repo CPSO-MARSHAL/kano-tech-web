@@ -1,7 +1,7 @@
 # kano-tech-web
 # Kano Tech Web
 
-WordPress web design agency site — built with HTML, CSS & WordPress.
+WordPress web design agency site built with HTML, CSS & WordPress.
 
 ## 🌐 Live Site
 [View Live Site](https://kanotechweb.infinityfreeapp.com)
